@@ -1,13 +1,13 @@
 {
-  "name": "chollo-cleaner",
+  "name": "url-redirect-resolver",
   "version": "1.0.0",
-  "description": "Microservicio para resolver URLs con redirecciones (Chollometro, Amazon)",
+  "description": "Microservicio para resolver redirecciones de URLs (Chollometro, Amazon)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "Daniel Ba",
+  "keywords": ["url", "redirect", "resolver", "api"],
+  "author": "Danielba012",
   "license": "MIT",
   "dependencies": {
     "express": "^5.1.0"
