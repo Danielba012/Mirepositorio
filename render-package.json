@@ -1,0 +1,19 @@
+{
+  "name": "url-redirect-resolver-railway",
+  "version": "1.0.0",
+  "description": "URL redirect resolver API for Railway deployment",
+  "main": "railway-index.js",
+  "scripts": {
+    "start": "node railway-index.js",
+    "dev": "node railway-index.js"
+  },
+  "keywords": ["url", "redirect", "resolver", "api", "railway"],
+  "author": "Daniel Ba",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
